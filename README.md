@@ -21,7 +21,7 @@ In this project, I have automated a demo fintech API to manage various financial
 ## Documentation:
 https://documenter.getpostman.com/view/35122212/2sA3QwapS7
 
-## Excel Files
+## Excel Files for Test Case and Bug Report
 
 You can download the Excel files from the following links:
 - [StandardTestCase.xlsx](https://docs.google.com/spreadsheets/d/1mdeZUak9MBJQspSHeXJPq9vIo4lyfQFn/edit?usp=sharing&ouid=106900521374584856661&rtpof=true&sd=true)
