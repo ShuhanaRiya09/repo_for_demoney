@@ -9,10 +9,10 @@
 
 ## How to Run?
 ###Execute the following commands:
--```Clone the repository:  git clone <https://github.com/ShuhanaRiya09/repo_for_demoney.git >```
--```Install dependencies: npm install```
--```Add the .env file (on request)```
--```Run the project:node ./report.js```
+- ```Clone the repository:  git clone <https://github.com/ShuhanaRiya09/repo_for_demoney.git >```
+- ```Install dependencies: npm install```
+- ```Add the .env file (on request)```
+- ```Run the project:node ./report.js```
 
 
 
