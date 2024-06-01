@@ -20,6 +20,12 @@
 ## Documentation:
 https://documenter.getpostman.com/view/35122212/2sA3QwapS7
 
+## Excel Files
+
+You can download the Excel files from the following links:
+- [StandardTestCase.xlsx](https://docs.google.com/spreadsheets/d/1mdeZUak9MBJQspSHeXJPq9vIo4lyfQFn/edit?usp=sharing&ouid=106900521374584856661&rtpof=true&sd=true)
+- [Bug-Report.xlsx](https://docs.google.com/spreadsheets/d/1OCxu2rrFV9g8ckNuLonuKW0Doz8oeF2d/edit?usp=sharing&ouid=106900521374584856661&rtpof=true&sd=true)
+
 
 ## Outputs:
 ![Screenshot (724)](https://github.com/ShuhanaRiya09/repo_for_demoney/assets/108625095/a5fa52d6-5a6b-47f1-8d5c-8189cf51bd9c)
