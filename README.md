@@ -14,6 +14,9 @@
 - ```Add the .env file (on request)```
 - ```Run the project:node ./report.js```
 
+![image](https://github.com/ShuhanaRiya09/repo_for_demoney/assets/108625095/b050fea9-d10b-49e7-ae22-83516e3e94a0)
+
+
 
 
 
